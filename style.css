@@ -1,0 +1,65 @@
+body{
+     text-align: left;
+     font-size: medium;
+    }
+header{
+      background: #fc9e2b;
+      padding: 2em 0 2em 0;
+      font-size: xx-large;
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      background: linear-gradient(to right,rgb(255, 174, 0), white);
+      text-shadow: 5px 5px 5px black;
+      color: white;
+      padding-left: 20px;
+      transition: 0.6s;
+}
+img{
+    border-style: outset;
+    border-width: 5px;
+    border-color: #fc9e2b;
+    border-radius: 50px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+h2{
+    font-size: large;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to right,rgb(255, 170, 13), white);
+}    
+h3{
+    text-align: left;
+    font-style: italic;
+
+}
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif,arial;
+}
+d1{
+    font-family: verdana,arial;
+}
+h4{
+    font-style: italic;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+h5{
+   font-size: large;
+   }    
+h6{
+    font-size: large;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h2{
+    font-size: medium;
+   }
+ul{
+    text-align: left;
+}
+
+
